@@ -75,7 +75,6 @@
 
 ```bash
 # تحميل المشروع
-git clone https://github.com/your-repo/netmaster.git
 cd netmaster
 
 # تشغيل الأداة (يتطلب صلاحيات root)
