@@ -370,6 +370,5 @@ git push origin feature/amazing-feature
 [![GitHub stars](https://img.shields.io/github/stars/your-repo/netmaster?style=social)](https://github.com/your-repo/netmaster/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/your-repo/netmaster?style=social)](https://github.com/your-repo/netmaster/network)
 
-**صُنع بـ ❤️ للمجتمع العربي**
 
 </div>
